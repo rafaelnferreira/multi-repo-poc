@@ -1,0 +1,5 @@
+dependencies {
+        implementation rootProject
+        implementation project(':modules:lib-a')
+    }
+
